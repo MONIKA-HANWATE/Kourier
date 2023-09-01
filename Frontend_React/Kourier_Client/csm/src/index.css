@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
+
+/* @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap"); */
+
+body {
+  margin: 0;
+  font-family: "Quicksand", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  /* background-image: url(assets/bg6.jpg); */
+  /* background-color: #add8e6; */
+  /* background-color: #87ceeb; */
+  /* background-color: cadetblue; */
+  background-image: url(assets/texture1.png);
+  /* background-repeat: no-repeat; */
+}
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+} */
